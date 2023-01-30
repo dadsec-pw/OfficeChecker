@@ -1,4 +1,4 @@
-# 🖤 Office Checker 2023 🖤
+# 🖤 Office Login Checker 2023 🖤
 
 - [x] **Coded in Python 3**
 - [x] **Speed: Ultra Fast**
